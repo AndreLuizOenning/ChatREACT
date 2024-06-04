@@ -1,0 +1,17 @@
+.lgn{
+    display: flex;
+    padding: 6px 0;
+    gap: 8px;
+}
+button{
+    background-color: lightgray;
+    color:green;
+    font-weight: bold;
+    padding: 5px;
+  
+  }
+input{
+    flex:1;
+    border: 1px solid black;
+    padding: 5px;
+  }
